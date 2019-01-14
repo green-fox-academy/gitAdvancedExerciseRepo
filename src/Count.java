@@ -15,7 +15,7 @@ public class Count {
         return age;
     }
 
-    public void setAge(String age) {    
+    public void setAge(String age) {
         this.age = age;
     }
 }
