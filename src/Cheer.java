@@ -1,5 +1,5 @@
 public class Cheer {
-  public static void main(String[] args) {
-    System.out.println("asd");
+  public void PrintOut(String text) {
+    System.out.println(text);
   }
 }
