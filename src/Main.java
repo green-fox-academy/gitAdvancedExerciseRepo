@@ -5,6 +5,7 @@ public class Main {
         Count dracula = new Count("42");
 
         Count monthOfBirth = new Count("02");
-        Count dracula   = new Count("42");
+
+
     }
 }

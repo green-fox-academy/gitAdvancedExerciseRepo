@@ -4,7 +4,7 @@ public class Count {
 
     public Count(String age){
         this.age = age;
-        this.count(age);
+        this.count(age, "much wow");
     }
 
     public void count(String age){
