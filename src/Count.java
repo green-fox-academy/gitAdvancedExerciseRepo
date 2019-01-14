@@ -7,8 +7,8 @@ public class Count {
         this.count(age, "much wow");
     }
 
-    public void count(String age, String other_stuff){
-        System.out.println(age + " " + other_stuff);
+    public void count(String age){
+        System.out.println("Counting the countless" + age);
     }
 
     public String getAge() {
